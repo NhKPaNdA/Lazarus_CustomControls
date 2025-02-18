@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus Version="4.0RC2"/>
+  <Compiler Value="C:\Lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1512399215"/>
+  <Params Value="-MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FuD:\Git Projects\Lazarus Packages\CustomControls\&quot; -FuC:\Lazarus\packager\units\x86_64-win64 -FuC:\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Lazarus\components\freetype\lib\x86_64-win64 -FuC:\Lazarus\lcl\units\x86_64-win64 &quot;-FUD:\Git Projects\Lazarus Packages\CustomControls\lib\x86_64-win64\&quot; customcontrols.pas"/>
+</CONFIG>
